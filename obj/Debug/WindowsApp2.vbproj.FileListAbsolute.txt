@@ -1,0 +1,12 @@
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Form1.resources
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+c:\users\adeora\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
